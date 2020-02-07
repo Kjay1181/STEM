@@ -1,6 +1,6 @@
 import MySQLdb
 
-db = MySQLdb.connect("192.168.0.131","kevdav21","davis","kevdav21")
+db = MySQLdb.connect("localhost","user","password","students")
 
 db.autocommit(True)#allows transtion to commit
 
