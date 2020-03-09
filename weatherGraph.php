@@ -39,7 +39,7 @@ $conn->close();
 
 
 <!DOCTYPE html>
-<html lang="en" dir="ltr"></html>
+<html>
 <head>
 <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
