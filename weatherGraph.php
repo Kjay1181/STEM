@@ -28,7 +28,7 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 echo substr($humidityData,1)."\n";
-//echo substr($tempData,1)."\n";
+echo substr($tempData,1)."\n";
 
 
 
